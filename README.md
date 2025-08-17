@@ -1,54 +1,81 @@
 # Excel-Sales-Analytics
 
-📊 Sales Analytics Project – AtliQ Hardwares
+**Sales Analytics Dashboard for Atliq Hardwares**
 
-📌 Overview
+**Project Overview**
 
-This project analyzes sales performance of AtliQ Hardwares between 2019–2021. The goal was to transform raw ETL-processed data into actionable insights on customer growth, product performance, market trends, and divisional contributions.
+This project provides a comprehensive sales analytics dashboard for Atliq Hardwares. It offers insights into sales performance across various dimensions, including customers, markets, products, and divisions. The reports are designed to help stakeholders understand sales trends, identify top-performing areas, and uncover opportunities for growth. The data spans from 2019 to 2021, with a focus on year-over-year growth.
 
-Project Objectives:
+**Reports Included**
 
-• Create a [Customer Performance Report](https://github.com/swarajkawale019/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)
+This dashboard contains several key reports:
 
-• Conduct a comprehensive comparison between [Market Performance and Sales Targets](https://github.com/swarajkawale019/Excel-Sales-Analytics/blob/main/Market%20Performance%20Report.pdf)
+**1. Net Sales Performance by Customer**
+**Description:** This report provides a detailed breakdown of net sales for each customer from 2019 to 2021. It also calculates the percentage growth in sales from 2020 to 2021, highlighting the fastest-growing customer accounts.
 
-• Purpose of Sales Analytics: Empower businesses to monitor and evaluate their sales activities and performance.
+**Key Insights:**
 
-• Importance of Analyzing Sales Data: Identify sales patterns and track key performance indicators (KPIs).
+• Identify top customers by sales volume (e.g., Amazon, AtliQ Exclusive).
 
-• Role of Reports: Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+• Track the growth trajectory of individual customers.
 
-🛠 Tools & Methods
+• Recognize emerging customers with high growth rates.
 
-• Excel / Power Query – Data cleaning, transformation, and modeling
+**2. Market Performance vs. Target**
+Description: This report compares the actual sales performance in different countries against predefined targets for the year 2021. It shows the sales figures for 2019, 2020, and 2021, and then calculates the variance from the 2021 target in both absolute value and percentage.
 
-• Pivot Tables & Charts – Interactive dashboards and visualizations
+**Key Insights:**
 
-• Report File – Consolidated performance report (All Combine Reports.pdf)
+• Evaluate which markets are meeting or exceeding their sales targets.
 
-🔍 Key Insights
+• Identify countries that are underperforming and may require strategic intervention.
 
-• Customer Growth: Amazon and AtliQ eStore achieved >200% growth between 2019–2021.
+• Understand the overall performance against sales goals, which stood at an -8.4% variance for the grand total in 2021.
 
-• Market Trends: India led with $161M sales in 2021, followed by USA and South Korea.
+**3. Top 10 Products**
+**Description:** This report highlights the top 10 best-selling products by comparing their sales in 2020 and 2021. It showcases the dramatic growth of specific products year-over-year.
 
-• Products:
+**Key Insights:**
 
-  • Top – AQ Electron 4 3600 Desktop Processor ($19.4M), AQ Smash 2 ($11.2M)
+• Pinpoint the most successful products in the portfolio.
 
-  • New – AQ Qwerty ($22M), AQ Trigger ($20.7M), AQ Wi Power Dx3 ($17.2M)
+• Analyze the explosive growth of newer products like 'AQ Mx NB' and 'AQ Smash 2'.
 
-  • Bottom – AQ Gamer 1, AQ GEN Z, AQ Home Allin1 Gen 2
+**4. Division Level Report**
+**Description:** This report aggregates sales data at the division level (N&S, P&A, PC) for 2020 and 2021, showing the growth for each division.
 
-• Divisions:
+**Key Insights:**
 
-  • PC Division grew by 413%
-  
-  • P&A Division contributed the highest revenue ($338M in 2021)
+• Compare the performance of different business divisions.
 
-• Target Gap: 2021 sales missed targets by $54.9M (-8.4%).
+• The PC division shows the highest growth rate (413.7%), indicating strong market demand.
 
-✅ Outcomes
+**5. Top 5 & Bottom 5 Products by Quantity**
+**Description:** This section provides two lists: the top 5 products and the bottom 5 products based on the quantity sold.
+
+**Key Insights:**
+
+• Quickly identify which products are driving volume.
+
+• Recognize slow-moving products that may need marketing support or potential discontinuation.
+
+**6. New Products - 2021**
+**Description:** A list of new products introduced in 2021, along with their sales performance in that year.
+
+**Key Insights:**
+
+• Assess the initial market reception of new product launches.
+
+**7. Top 5 Countries - 2021**
+**Description:** This report ranks the top 5 countries by their total sales in 2021.
+
+**Key Insights:**
+
+• India is the largest market, followed by the USA.
+
+• Focus on key geographical markets that contribute most significantly to revenue.
+
+**Outcomes**
 
 • Built a structured reporting workflow for sales analysis
 
