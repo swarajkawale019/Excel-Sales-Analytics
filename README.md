@@ -8,9 +8,9 @@ This project analyzes sales performance of AtliQ Hardwares between 2019–2021. 
 
 Project Objectives:
 
-• Create a 
+• Create a [Customer Performance Report](https://github.com/swarajkawale019/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)
 
-• Conduct a comprehensive comparison between Market Performance and Sales Targets
+• Conduct a comprehensive comparison between [Market Performance and Sales Targets]()
 
 • Purpose of Sales Analytics: Empower businesses to monitor and evaluate their sales activities and performance.
 
