@@ -1,9 +1,22 @@
 # Excel-Sales-Analytics
 
 📊 Sales Analytics Project – AtliQ Hardwares
+
 📌 Overview
 
 This project analyzes sales performance of AtliQ Hardwares between 2019–2021. The goal was to transform raw ETL-processed data into actionable insights on customer growth, product performance, market trends, and divisional contributions.
+
+Project Objectives:
+
+• Create a 
+
+• Conduct a comprehensive comparison between Market Performance and Sales Targets
+
+• Purpose of Sales Analytics: Empower businesses to monitor and evaluate their sales activities and performance.
+
+• Importance of Analyzing Sales Data: Identify sales patterns and track key performance indicators (KPIs).
+
+• Role of Reports: Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
 🛠 Tools & Methods
 
